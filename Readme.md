@@ -1,13 +1,13 @@
 # 🛒 Zepto Inventory Data Analysis (PostgreSQL Project)
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing a real-world **Zepto Inventory Dataset** using SQL in PostgreSQL.
 The goal is to perform **data exploration, data cleaning, and business analysis** to extract meaningful insights from the dataset.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * PostgreSQL
 * SQL
@@ -31,7 +31,7 @@ The dataset contains product-level inventory details such as:
 
 ---
 
-## 🏗️ Database Schema
+## Database Schema
 
 ```sql
 CREATE TABLE zepto(
